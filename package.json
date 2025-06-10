@@ -17,6 +17,8 @@
   "devDependencies": {
     "@nuxtjs/tailwindcss": "^7.0.0-beta.0",
     "autoprefixer": "^10.4.21",
+    "gh": "^2.8.9",
+    "pages": "^0.0.16",
     "postcss": "^8.5.4"
   }
 }
